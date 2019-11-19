@@ -649,121 +649,122 @@
 		"confTeams": [{
 
 			"name": "Michigan",
-			"abbreviation": "MEM",
 
-			"prestige": "60",
-
-			"state": "Tennessee",
-
-			"rival": "NAVY"
-
-		}, {
-
-			"name": "Houston",
-
-			"abbreviation": "HOU",
-
-			"prestige": "70",
-
-			"state": "Texas",
-
-			"rival": "SMI"
-
-		}, {
-
-			"name": "Navy",
-
-			"abbreviation": "NAVY",
-
-			"prestige": "55",
-
-			"state": "Maryland",
-
-			"rival": "MEM"
-
-		}, {
-
-			"name": "Southern Methodis",
-
-			"abbreviation": "SMI",
-
-			"prestige": "45",
-
-			"state": "Texas",
-
-			"rival": "HOU"
-
-		}, {
-
-			"name": "Central Florida",
-
-			"abbreviation": "UCF",
+			"abbreviation": "MIC",
 
 			"prestige": "90",
 
-			"state": "Florida",
+			"state": "Michigan",
 
-			"rival": "USI"
-
-		}, {
-
-			"name": "South Florid",
-
-			"abbreviation": "USI",
-
-			"prestige": "60",
-
-			"state": "Florida",
-
-			"rival": "USC"
+			"rival": "MSU"
 
 		}, {
 
-			"name": "Temple",
+			"name": "Michigan St",
 
-			"abbreviation": "TMPL",
+			"abbreviation": "MSU",
 
-			"prestige": "40",
+			"prestige": "70",
 
-			"state": "Pennsylvania",
+			"state": "Michigan",
 
-			"rival": "UCONN"
+			"rival": "MIC"
 
 		}, {
 
-			"name": "Cincinnati",
+			"name": "Central Michigan",
 
-			"abbreviation": "CINCI",
+			"abbreviation": "CMU",
+
+			"prestige": "55",
+
+			"state": "Michigan",
+
+			"rival": "NMU"
+
+		}, {
+
+			"name": "Western Michigan",
+
+			"abbreviation": "WMU",
+
+			"prestige": "50",
+
+			"state": "Michigan",
+
+			"rival": "EMU"
+
+		}, {
+
+			"name": "Eastern Michigan",
+
+			"abbreviation": "EMU",
+
+			"prestige": "50",
+
+			"state": "Michigan",
+
+			"rival": "WMU"
+
+		}, {
+
+			"name": "Northern Michigan",
+
+			"abbreviation": "NMU",
 
 			"prestige": "35",
 
-			"state": "Ohio",
+			"state": "Michigan",
 
-			"rival": "ECU"
-
-		}, {
-
-			"name": "East Carolina",
-
-			"abbreviation": "ECU",
-
-			"prestige": "25",
-
-			"state": "North Carolina",
-
-			"rival": "CINCI"
+			"rival": "CMU"
 
 		}, {
 
-			"name": "Uconn",
+			"name": "Lake Superior St",
 
-			"abbreviation": "UCONN",
+			"abbreviation": "LSS",
+
+			"prestige": "35",
+
+			"state": "Michigan",
+
+			"rival": "SGS"
+
+		}, {
+
+			"name": "Saginaw St",
+
+			"abbreviation": "SGS",
+
+			"prestige": "35",
+
+			"state": "Michigan",
+
+			"rival": "LSS"
+
+		}, {
+
+			"name": "Grand Rapids",
+
+			"abbreviation": "GRP",
 
 			"prestige": "25",
 
-			"state": "Connecticut",
+			"state": "Michigan",
 
-			"rival": "TMPL"
+			"rival": "WYS"
+
+		}, {
+
+			"name": "Wayne St",
+
+			"abbreviation": "WYS",
+
+			"prestige": "25",
+
+			"state": "Michigan",
+
+			"rival": "GRP"
 
 		}]
 
