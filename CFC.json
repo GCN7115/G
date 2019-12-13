@@ -304,13 +304,13 @@
 
 			"name": "Texas",
       
-      "abbreviation": "TEX",
+                        "abbreviation": "TEX",
       
-      "prestige": "75",
+                        "prestige": "75",
       
-      "state": "Texas",
+                        "state": "Texas",
       
-      "rival": "TXT"
+                        "rival": "TXT"
       
 		}, {
 
@@ -340,13 +340,13 @@
 
 			"name": "Southern Methodist",
       
-      "abreviation": "SMU",
+                        "abreviation": "SMU",
       
-      "presitge": "75",
+                        "presitge": "75",
       
-      "state": "Texas",
+                        "state": "Texas",
       
-      "rival": "TCU"
+                        "rival": "TCU"
       
 		}, {
 
