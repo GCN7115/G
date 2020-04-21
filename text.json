@@ -6,7 +6,7 @@
           "abbreviation" : "ALA",
           "prestige" : "95",
           "hexColor" : "#D1B07F",
-          "rival" : "ATH",
+          "rival" : "UGA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -27,7 +27,7 @@
           "state" : "Alabama"
         },
         {
-          "abbreviation" : "ATH",
+          "abbreviation" : "UGA",
           "prestige" : "90",
           "hexColor" : "#9E0E43",
           "rival" : "ALA",
@@ -47,7 +47,7 @@
             "name" : "Elliot Cheyney",
             "contractYear" : "5"
           },
-          "name" : "Athens",
+          "name" : "Georgia",
           "state" : "Georgia"
         },
         {
