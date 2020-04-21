@@ -143,7 +143,7 @@
             "name" : "Robert Emmerson",
             "contractYear" : "5"
           },
-          "name" : "Louisiana St",
+          "name" : "Louisiana State",
           "state" : "Louisiana"
         },
         {
@@ -257,17 +257,17 @@
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
-            "age" : "20",
-            "ratOff" : "66",
+            "age" : "46",
+            "ratOff" : "85",
             "cumulativePrestige" : "0",
-            "ratDef" : "66",
+            "ratDef" : "79",
             "homeState" : "Maine",
             "ratPot" : "70",
             "ratTalent" : "75",
             "baselinePrestige" : "90",
             "ratDiscipline" : "69",
             "ratOvr" : "69",
-            "name" : "Garren Narvaez",
+            "name" : "Bob Ross",
             "contractYear" : "0"
           },
           "name" : "Michigan",
@@ -275,7 +275,7 @@
         },
         {
           "abbreviation" : "OHI",
-          "prestige" : "90",
+          "prestige" : "95",
           "hexColor" : "#006000",
           "rival" : "MIC",
           "headCoach" : {
@@ -318,12 +318,12 @@
             "name" : "Deondre Mandiola",
             "contractYear" : "2"
           },
-          "name" : "Michigan St",
+          "name" : "Michigan State",
           "state" : "Michigan"
         },
         {
-          "abbreviation" : "CHI",
-          "prestige" : "70",
+          "abbreviation" : "PENN",
+          "prestige" : "83",
           "hexColor" : "#F37321",
           "rival" : "DET",
           "headCoach" : {
@@ -342,12 +342,12 @@
             "name" : "Rodney Delaurentis",
             "contractYear" : "2"
           },
-          "name" : "Chicago",
-          "state" : "Illinois"
+          "name" : "Penn State",
+          "state" : "Pennsylvania"
         },
         {
           "abbreviation" : "WIS",
-          "prestige" : "70",
+          "prestige" : "82",
           "hexColor" : "#ADD8E6",
           "rival" : "IND",
           "headCoach" : {
@@ -371,7 +371,7 @@
         },
         {
           "abbreviation" : "MIN",
-          "prestige" : "70",
+          "prestige" : "80",
           "hexColor" : "#CE1040",
           "rival" : "MSU",
           "headCoach" : {
@@ -394,8 +394,8 @@
           "state" : "Minnesota"
         },
         {
-          "abbreviation" : "DET",
-          "prestige" : "65",
+          "abbreviation" : "IOWA",
+          "prestige" : "80",
           "hexColor" : "#6A3547",
           "rival" : "CHI",
           "headCoach" : {
@@ -414,12 +414,12 @@
             "name" : "Frank Abreu",
             "contractYear" : "0"
           },
-          "name" : "Detroit St",
-          "state" : "Michigan"
+          "name" : "Iowa",
+          "state" : "Iowa"
         },
         {
           "abbreviation" : "IND",
-          "prestige" : "65",
+          "prestige" : "70",
           "hexColor" : "#005486",
           "rival" : "WIS",
           "headCoach" : {
@@ -442,8 +442,8 @@
           "state" : "Indiana"
         },
         {
-          "abbreviation" : "CLE",
-          "prestige" : "55",
+          "abbreviation" : "Purdue",
+          "prestige" : "70",
           "hexColor" : "#CAB388",
           "rival" : "MIL",
           "headCoach" : {
@@ -462,12 +462,12 @@
             "name" : "Quinton Arter",
             "contractYear" : "5"
           },
-          "name" : "Cleveland State",
-          "state" : "Ohio"
+          "name" : "Purdue",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "MIL",
-          "prestige" : "45",
+          "abbreviation" : "Illinois",
+          "prestige" : "60",
           "hexColor" : "#ddddff",
           "rival" : "CLE",
           "headCoach" : {
@@ -486,13 +486,13 @@
             "name" : "Miles Tokita",
             "contractYear" : "1"
           },
-          "name" : "Milwaukee",
-          "state" : "Wisconsin"
+          "name" : "Illinois",
+          "state" : "Illinois"
         }
       ],
-      "confFullName" : "Lakes",
+      "confFullName" : "Big 10",
       "confPrestige" : "90",
-      "confName" : "LAKES"
+      "confName" : "B1G"
     },
     {
       "confTeams" : [
