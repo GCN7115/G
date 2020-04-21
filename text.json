@@ -4,9 +4,9 @@
       "confTeams" : [
         {
           "abbreviation" : "ALA",
-          "prestige" : "98",
+          "prestige" : "95",
           "hexColor" : "#D1B07F",
-          "rival" : "UGA",
+          "rival" : "FLA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -30,7 +30,7 @@
           "abbreviation" : "UGA",
           "prestige" : "90",
           "hexColor" : "#9E0E43",
-          "rival" : "ALA",
+          "rival" : "TEN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -52,9 +52,9 @@
         },
         {
           "abbreviation" : "FLA",
-          "prestige" : "85",
+          "prestige" : "88",
           "hexColor" : "#2139CE",
-          "rival" : "TEN",
+          "rival" : "ALA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -76,9 +76,9 @@
         },
         {
           "abbreviation" : "TEN",
-          "prestige" : "80",
+          "prestige" : "75",
           "hexColor" : "#EA4B0F",
-          "rival" : "FLA",
+          "rival" : "UGA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -99,8 +99,8 @@
           "state" : "Tennessee"
         },
         {
-          "abbreviation" : "ATL",
-          "prestige" : "75",
+          "abbreviation" : "AUB",
+          "prestige" : "85",
           "hexColor" : "#194896",
           "rival" : "KYW",
           "headCoach" : {
@@ -119,12 +119,12 @@
             "name" : "Amir Chestnutt",
             "contractYear" : "3"
           },
-          "name" : "Atlanta",
-          "state" : "Georgia"
+          "name" : "Auburn",
+          "state" : "Alabama"
         },
         {
-          "abbreviation" : "NOR",
-          "prestige" : "75",
+          "abbreviation" : "LSU",
+          "prestige" : "90",
           "hexColor" : "#ca030a",
           "rival" : "LOU",
           "headCoach" : {
@@ -143,12 +143,12 @@
             "name" : "Robert Emmerson",
             "contractYear" : "5"
           },
-          "name" : "New Orleans",
+          "name" : "Louisiana St",
           "state" : "Louisiana"
         },
         {
-          "abbreviation" : "ARK",
-          "prestige" : "70",
+          "abbreviation" : "TAM",
+          "prestige" : "80",
           "hexColor" : "#DC272A",
           "rival" : "KTY",
           "headCoach" : {
@@ -167,11 +167,11 @@
             "name" : "Kerry Wrigley",
             "contractYear" : "5"
           },
-          "name" : "Arkansas",
-          "state" : "Arkansas"
+          "name" : "Texas A&M",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "LOU",
+          "abbreviation" : "MIS",
           "prestige" : "65",
           "hexColor" : "#e8d3a2",
           "rival" : "NOR",
@@ -191,12 +191,12 @@
             "name" : "Santiago Rachell",
             "contractYear" : "5"
           },
-          "name" : "Louisiana",
-          "state" : "Louisiana"
+          "name" : "Missouri",
+          "state" : "Missouri"
         },
         {
-          "abbreviation" : "KYW",
-          "prestige" : "65",
+          "abbreviation" : "VAN",
+          "prestige" : "60",
           "hexColor" : "#4b0082",
           "rival" : "ATL",
           "headCoach" : {
@@ -215,12 +215,12 @@
             "name" : "Pedro Genualdi",
             "contractYear" : "2"
           },
-          "name" : "Key West",
-          "state" : "Florida"
+          "name" : "Vanderbilt",
+          "state" : "Tennessee"
         },
         {
           "abbreviation" : "KTY",
-          "prestige" : "50",
+          "prestige" : "70",
           "hexColor" : "#007CC4",
           "rival" : "ARK",
           "headCoach" : {
@@ -243,9 +243,9 @@
           "state" : "Kentucky"
         }
       ],
-      "confFullName" : "Southern",
-      "confPrestige" : "90",
-      "confName" : "SOUTH"
+      "confFullName" : "Southeastern",
+      "confPrestige" : "93",
+      "confName" : "SEC"
     },
     {
       "confTeams" : [
