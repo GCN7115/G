@@ -1238,10 +1238,10 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "COL",
-          "prestige" : "80",
+          "abbreviation" : "CSU",
+          "prestige" : "60",
           "hexColor" : "#005837",
-          "rival" : "DEN",
+          "rival" : "AFA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1258,12 +1258,12 @@
             "name" : "Malik Friesner",
             "contractYear" : "5"
           },
-          "name" : "Colorado",
+          "name" : "Colorado State",
           "state" : "Colorado"
         },
         {
-          "abbreviation" : "DEN",
-          "prestige" : "75",
+          "abbreviation" : "AFA",
+          "prestige" : "70",
           "hexColor" : "#004231",
           "rival" : "COL",
           "headCoach" : {
@@ -1282,14 +1282,14 @@
             "name" : "Devante Mrkvicka",
             "contractYear" : "4"
           },
-          "name" : "Denver",
+          "name" : "Air Force",
           "state" : "Colorado"
         },
         {
-          "abbreviation" : "UTA",
-          "prestige" : "75",
+          "abbreviation" : "UST",
+          "prestige" : "65",
           "hexColor" : "#730B27",
-          "rival" : "SAL",
+          "rival" : "NEV",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1306,14 +1306,14 @@
             "name" : "Timothy Nettles",
             "contractYear" : "0"
           },
-          "name" : "Utah",
+          "name" : "Utah St",
           "state" : "Utah"
         },
         {
-          "abbreviation" : "YEL",
-          "prestige" : "75",
+          "abbreviation" : "WYO",
+          "prestige" : "65",
           "hexColor" : "#D5A10E",
-          "rival" : "ALB",
+          "rival" : "HAW",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1330,14 +1330,14 @@
             "name" : "Brent Schmelz",
             "contractYear" : "2"
           },
-          "name" : "Yellowstone St",
+          "name" : "Wyoming",
           "state" : "Wyoming"
         },
         {
-          "abbreviation" : "ALB",
+          "abbreviation" : "HAW",
           "prestige" : "70",
           "hexColor" : "#FEB65F",
-          "rival" : "YEL",
+          "rival" : "WYO",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1354,14 +1354,14 @@
             "name" : "Freddie Pesh",
             "contractYear" : "4"
           },
-          "name" : "Albuquerque",
-          "state" : "New Mexico"
+          "name" : "Hawaii",
+          "state" : "Hawaii"
         },
         {
-          "abbreviation" : "SAL",
-          "prestige" : "65",
+          "abbreviation" : "SDS",
+          "prestige" : "70",
           "hexColor" : "#0A0D6F",
-          "rival" : "UTA",
+          "rival" : "SJS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1378,14 +1378,14 @@
             "name" : "Romeo Alpha",
             "contractYear" : "1"
           },
-          "name" : "Salt Lake St",
-          "state" : "Utah"
+          "name" : "San Diego State",
+          "state" : "California"
         },
         {
-          "abbreviation" : "WYO",
-          "prestige" : "60",
+          "abbreviation" : "NEV",
+          "prestige" : "65",
           "hexColor" : "#006600",
-          "rival" : "MON",
+          "rival" : "UST",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1402,14 +1402,14 @@
             "name" : "Donald Handel",
             "contractYear" : "3"
           },
-          "name" : "Wyoming",
-          "state" : "Wyoming"
+          "name" : "Nevada",
+          "state" : "Nevada"
         },
         {
-          "abbreviation" : "MON",
-          "prestige" : "55",
+          "abbreviation" : "BOI",
+          "prestige" : "80",
           "hexColor" : "#1D1160",
-          "rival" : "WYO",
+          "rival" : "FRE",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1426,14 +1426,14 @@
             "name" : "JP Jones",
             "contractYear" : "5"
           },
-          "name" : "Montana",
-          "state" : "Montana"
+          "name" : "Boise State",
+          "state" : "Idaho"
         },
         {
-          "abbreviation" : "LSV",
-          "prestige" : "50",
+          "abbreviation" : "FRE",
+          "prestige" : "55",
           "hexColor" : "#BF2C37",
-          "rival" : "PHO",
+          "rival" : "BOI",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1450,14 +1450,14 @@
             "name" : "Wayne Lukesh",
             "contractYear" : "3"
           },
-          "name" : "Las Vegas",
-          "state" : "Nevada"
+          "name" : "Fresno State",
+          "state" : "California"
         },
         {
-          "abbreviation" : "PHO",
-          "prestige" : "45",
+          "abbreviation" : "SJS",
+          "prestige" : "55",
           "hexColor" : "#00386D",
-          "rival" : "LSV",
+          "rival" : "SDS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1474,21 +1474,21 @@
             "name" : "Reese Kobs",
             "contractYear" : "2"
           },
-          "name" : "Phoenix",
-          "state" : "Arizona"
+          "name" : "San Jose State",
+          "state" : "California"
         }
       ],
-      "confFullName" : "Mountain",
-      "confPrestige" : "75",
-      "confName" : "MOUNT"
+      "confFullName" : "Mountain West",
+      "confPrestige" : "70",
+      "confName" : "MWS"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "BOC",
-          "prestige" : "75",
+          "abbreviation" : "MEM",
+          "prestige" : "80",
           "hexColor" : "#830032",
-          "rival" : "CAR",
+          "rival" : "CIN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1505,14 +1505,14 @@
             "name" : "Carlos Orone",
             "contractYear" : "5"
           },
-          "name" : "Boca Raton",
-          "state" : "Florida"
+          "name" : "Memphis",
+          "state" : "Tennessee"
         },
         {
-          "abbreviation" : "ARL",
-          "prestige" : "75",
+          "abbreviation" : "CIN",
+          "prestige" : "80",
           "hexColor" : "#F5793F",
-          "rival" : "LTR",
+          "rival" : "MEM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1529,14 +1529,14 @@
             "name" : "Jess Wolthuis",
             "contractYear" : "4"
           },
-          "name" : "Arlington",
-          "state" : "Texas"
+          "name" : "Cincinnati",
+          "state" : "Ohio"
         },
         {
-          "abbreviation" : "CAR",
-          "prestige" : "70",
+          "abbreviation" : "NAVY",
+          "prestige" : "75",
           "hexColor" : "#6699CC",
-          "rival" : "BOC",
+          "rival" : "SMU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1553,14 +1553,14 @@
             "name" : "Jimmie Colins",
             "contractYear" : "2"
           },
-          "name" : "Carolina",
-          "state" : "South Carolina"
+          "name" : "Navy",
+          "state" : "Maryland"
         },
         {
-          "abbreviation" : "BST",
-          "prestige" : "70",
+          "abbreviation" : "SMU",
+          "prestige" : "73",
           "hexColor" : "#046546",
-          "rival" : "VAL",
+          "rival" : "NAVY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1577,14 +1577,14 @@
             "name" : "Brent Moomaw",
             "contractYear" : "4"
           },
-          "name" : "Boone St",
-          "state" : "North Carolina"
+          "name" : "SMU",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "LAL",
-          "prestige" : "70",
+          "abbreviation" : "UCF",
+          "prestige" : "73",
           "hexColor" : "#AE2531",
-          "rival" : "MRE",
+          "rival" : "SFU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1601,14 +1601,14 @@
             "name" : "Jeff Burns",
             "contractYear" : "1"
           },
-          "name" : "Lafayett",
-          "state" : "Louisiana"
+          "name" : "Central Florida",
+          "state" : "Florida"
         },
         {
-          "abbreviation" : "MRE",
+          "abbreviation" : "TEM",
           "prestige" : "65",
           "hexColor" : "#00B552",
-          "rival" : "LAF",
+          "rival" : "TUL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1625,14 +1625,14 @@
             "name" : "Bryce Stoudenmire",
             "contractYear" : "1"
           },
-          "name" : "Monroe",
-          "state" : "Louisiana"
+          "name" : "Temple",
+          "state" : "Pennsylvania"
         },
         {
-          "abbreviation" : "LTR",
-          "prestige" : "60",
+          "abbreviation" : "TUL",
+          "prestige" : "65",
           "hexColor" : "#14295e",
-          "rival" : "ARL",
+          "rival" : "TEM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1649,14 +1649,14 @@
             "name" : "Austin Mesiti",
             "contractYear" : "1"
           },
-          "name" : "Little Rock",
-          "state" : "Arkansas"
+          "name" : "Tulane",
+          "state" : "Louisiana"
         },
         {
-          "abbreviation" : "MOB",
-          "prestige" : "55",
+          "abbreviation" : "SFU",
+          "prestige" : "65",
           "hexColor" : "#F5E0B6",
-          "rival" : "SMA",
+          "rival" : "UCF",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1673,14 +1673,14 @@
             "name" : "Joshua Zakarian",
             "contractYear" : "2"
           },
-          "name" : "South Mobile",
-          "state" : "Alabama"
+          "name" : "South Florida",
+          "state" : "Florida"
         },
         {
-          "abbreviation" : "VAL",
-          "prestige" : "50",
+          "abbreviation" : "HOU",
+          "prestige" : "60",
           "hexColor" : "#660033",
-          "rival" : "BST",
+          "rival" : "ECU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1697,14 +1697,14 @@
             "name" : "Trae Sedlacek",
             "contractYear" : "4"
           },
-          "name" : "Valdosta",
-          "state" : "Georgia"
+          "name" : "Houston",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "SMA",
-          "prestige" : "45",
+          "abbreviation" : "ECU",
+          "prestige" : "50",
           "hexColor" : "#032B66",
-          "rival" : "MOB",
+          "rival" : "HOU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1721,19 +1721,19 @@
             "name" : "Brock Parizo",
             "contractYear" : "5"
           },
-          "name" : "San Marcos",
-          "state" : "Texas"
+          "name" : "East Carolina",
+          "state" : "North Carolina"
         }
       ],
-      "confFullName" : "Gulf Coast",
+      "confFullName" : "American Athletic",
       "confPrestige" : "75",
-      "confName" : "GULF"
+      "confName" : "AAC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "BOI",
-          "prestige" : "80",
+          "abbreviation" : "CLE",
+          "prestige" : "95",
           "hexColor" : "#F4E600",
           "rival" : "FRE",
           "headCoach" : {
