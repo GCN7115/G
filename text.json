@@ -301,7 +301,7 @@
           "abbreviation" : "MSU",
           "prestige" : "80",
           "hexColor" : "#FD0026",
-          "rival" : "MIN",
+          "rival" : "PENN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -325,7 +325,7 @@
           "abbreviation" : "PENN",
           "prestige" : "83",
           "hexColor" : "#F37321",
-          "rival" : "DET",
+          "rival" : "MSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -349,7 +349,7 @@
           "abbreviation" : "WIS",
           "prestige" : "82",
           "hexColor" : "#ADD8E6",
-          "rival" : "IND",
+          "rival" : "MIN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -373,7 +373,7 @@
           "abbreviation" : "MIN",
           "prestige" : "80",
           "hexColor" : "#CE1040",
-          "rival" : "MSU",
+          "rival" : "WIS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -394,10 +394,10 @@
           "state" : "Minnesota"
         },
         {
-          "abbreviation" : "IOWA",
+          "abbreviation" : "IOW",
           "prestige" : "80",
           "hexColor" : "#6A3547",
-          "rival" : "CHI",
+          "rival" : "ILL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -421,7 +421,7 @@
           "abbreviation" : "IND",
           "prestige" : "70",
           "hexColor" : "#005486",
-          "rival" : "WIS",
+          "rival" : "PUR",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -442,10 +442,10 @@
           "state" : "Indiana"
         },
         {
-          "abbreviation" : "Purdue",
+          "abbreviation" : "PUR",
           "prestige" : "70",
           "hexColor" : "#CAB388",
-          "rival" : "MIL",
+          "rival" : "IND",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -466,10 +466,10 @@
           "state" : "Indiana"
         },
         {
-          "abbreviation" : "Illinois",
+          "abbreviation" : "ILL",
           "prestige" : "60",
           "hexColor" : "#ddddff",
-          "rival" : "CLE",
+          "rival" : "IOW",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
