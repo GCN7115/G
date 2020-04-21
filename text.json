@@ -497,10 +497,10 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "NYS",
-          "prestige" : "90",
+          "abbreviation" : "OKU",
+          "prestige" : "92",
           "hexColor" : "#C6930A",
-          "rival" : "NYC",
+          "rival" : "OKS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -517,14 +517,14 @@
             "name" : "Tre Crosby",
             "contractYear" : "3"
           },
-          "name" : "New York St",
-          "state" : "New York"
+          "name" : "Oklahoma",
+          "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "NWJ",
+          "abbreviation" : "BAY",
           "prestige" : "85",
           "hexColor" : "#FF8400",
-          "rival" : "PEN",
+          "rival" : "TXT",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -541,14 +541,14 @@
             "name" : "Colton Privett",
             "contractYear" : "3"
           },
-          "name" : "New Jersey",
-          "state" : "New Jersey"
+          "name" : "Baylor",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "NYC",
+          "abbreviation" : "OKS",
           "prestige" : "75",
           "hexColor" : "#0E1112",
-          "rival" : "NYS",
+          "rival" : "OKU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -565,14 +565,14 @@
             "name" : "Alphonso Lamattina",
             "contractYear" : "2"
           },
-          "name" : "New York City",
-          "state" : "New York"
+          "name" : "Oklahoma State",
+          "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "PEN",
+          "abbreviation" : "WVU",
           "prestige" : "75",
           "hexColor" : "#FF8C00",
-          "rival" : "NWJ",
+          "rival" : "IWS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -589,14 +589,14 @@
             "name" : "Danny Verlotte",
             "contractYear" : "3"
           },
-          "name" : "Pennsylvania",
-          "state" : "Pennsylvania"
+          "name" : "West Virginia",
+          "state" : "West Virginia"
         },
         {
-          "abbreviation" : "WDC",
-          "prestige" : "70",
+          "abbreviation" : "TXT",
+          "prestige" : "75",
           "hexColor" : "#8A1E04",
-          "rival" : "MAR",
+          "rival" : "BAY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -613,14 +613,14 @@
             "name" : "Cameron Absher",
             "contractYear" : "4"
           },
-          "name" : "Washington DC",
-          "state" : "District of Columbia"
+          "name" : "Texas Tech",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "MAR",
-          "prestige" : "70",
+          "abbreviation" : "TCU",
+          "prestige" : "67",
           "hexColor" : "#2A3F76",
-          "rival" : "WDC",
+          "rival" : "TEX",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -637,14 +637,14 @@
             "name" : "Ian Elmer",
             "contractYear" : "4"
           },
-          "name" : "Maryland",
-          "state" : "Maryland"
+          "name" : "Texas Christian",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "BOS",
-          "prestige" : "65",
+          "abbreviation" : "TEX",
+          "prestige" : "75",
           "hexColor" : "#780006",
-          "rival" : "VER",
+          "rival" : "TCU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -661,14 +661,14 @@
             "name" : "Stephen Shettsline",
             "contractYear" : "3"
           },
-          "name" : "Boston St",
-          "state" : "Massachusetts"
+          "name" : "Texas",
+          "state" : "Texas"
         },
         {
-          "abbreviation" : "PIT",
-          "prestige" : "60",
+          "abbreviation" : "KSU",
+          "prestige" : "70",
           "hexColor" : "#A20B36",
-          "rival" : "MAI",
+          "rival" : "KAN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -685,14 +685,14 @@
             "name" : "Robby Gelo",
             "contractYear" : "0"
           },
-          "name" : "Pittsburgh",
-          "state" : "Pennsylvania"
+          "name" : "Kansas State",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "MAI",
-          "prestige" : "50",
+          "abbreviation" : "IWS",
+          "prestige" : "70",
           "hexColor" : "#00437B",
-          "rival" : "PIT",
+          "rival" : "WVU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -709,14 +709,14 @@
             "name" : "Hunter Krebbs",
             "contractYear" : "3"
           },
-          "name" : "Maine",
-          "state" : "Maine"
+          "name" : "Iowa St",
+          "state" : "Iowa"
         },
         {
-          "abbreviation" : "VER",
-          "prestige" : "45",
+          "abbreviation" : "KAN",
+          "prestige" : "55",
           "hexColor" : "#010000",
-          "rival" : "BOS",
+          "rival" : "KSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -733,21 +733,21 @@
             "name" : "Amir Hobkirk",
             "contractYear" : "2"
           },
-          "name" : "Vermont",
-          "state" : "Vermont"
+          "name" : "Kansas",
+          "state" : "Kansas"
         }
       ],
-      "confFullName" : "North",
-      "confPrestige" : "80",
+      "confFullName" : "Big 12",
+      "confPrestige" : "85",
       "confName" : "NORTH"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "TEX",
-          "prestige" : "90",
+          "abbreviation" : "NDU",
+          "prestige" : "85",
           "hexColor" : "#543019",
-          "rival" : "OKL",
+          "rival" : "APP",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -764,14 +764,14 @@
             "name" : "Matthew Monigold",
             "contractYear" : "2"
           },
-          "name" : "Texas",
-          "state" : "Texas"
+          "name" : "Notre Dame",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "OKL",
-          "prestige" : "90",
+          "abbreviation" : "LIB",
+          "prestige" : "70",
           "hexColor" : "#091C44",
-          "rival" : "TEX",
+          "rival" : "LAF",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -788,14 +788,14 @@
             "name" : "Elvis Maid",
             "contractYear" : "4"
           },
-          "name" : "Oklahoma",
-          "state" : "Oklahoma"
+          "name" : "Liberty",
+          "state" : "Virginia"
         },
         {
-          "abbreviation" : "DAL",
-          "prestige" : "80",
+          "abbreviation" : "APP",
+          "prestige" : "75",
           "hexColor" : "#002144",
-          "rival" : "HOU",
+          "rival" : "NDU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -812,14 +812,14 @@
             "name" : "Mitch Mickley",
             "contractYear" : "4"
           },
-          "name" : "Dallas",
-          "state" : "Texas"
+          "name" : "Appalachian State",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "HOU",
-          "prestige" : "80",
+          "abbreviation" : "GSU",
+          "prestige" : "60",
           "hexColor" : "#0857B1",
-          "rival" : "DAL",
+          "rival" : "GAS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -836,14 +836,14 @@
             "name" : "David Copass",
             "contractYear" : "4"
           },
-          "name" : "Houston",
-          "state" : "Texas"
+          "name" : "Georgia State",
+          "state" : "Georgia"
         },
         {
-          "abbreviation" : "OKS",
+          "abbreviation" : "LAF",
           "prestige" : "70",
           "hexColor" : "#8B0000",
-          "rival" : "TUL",
+          "rival" : "LIB",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -860,14 +860,14 @@
             "name" : "Noah Arlen",
             "contractYear" : "3"
           },
-          "name" : "Oklahoma St",
-          "state" : "Oklahoma"
+          "name" : "Lafayette",
+          "state" : "Lousiana"
         },
         {
-          "abbreviation" : "AMO",
-          "prestige" : "70",
+          "abbreviation" : "AKS",
+          "prestige" : "60",
           "hexColor" : "#FFE13A",
-          "rival" : "PAS",
+          "rival" : "AKS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -884,14 +884,14 @@
             "name" : "Noe Burwinkel",
             "contractYear" : "0"
           },
-          "name" : "Alamo St",
-          "state" : "Texas"
+          "name" : "Arkansas State",
+          "state" : "Arkansas"
         },
         {
-          "abbreviation" : "TXS",
+          "abbreviation" : "ARMY",
           "prestige" : "60",
           "hexColor" : "#2E8DC4",
-          "rival" : "AUS",
+          "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -908,14 +908,14 @@
             "name" : "Damien Slader",
             "contractYear" : "2"
           },
-          "name" : "Texas St",
-          "state" : "Texas"
+          "name" : "Army",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "PAS",
-          "prestige" : "60",
+          "abbreviation" : "BYU",
+          "prestige" : "65",
           "hexColor" : "#C41E3A",
-          "rival" : "AMO",
+          "rival" : "ARMY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -932,14 +932,14 @@
             "name" : "Nnamdi Mathern",
             "contractYear" : "4"
           },
-          "name" : "El Paso St",
-          "state" : "Texas"
+          "name" : "BYU",
+          "state" : "Utah"
         },
         {
-          "abbreviation" : "TUL",
+          "abbreviation" : "GAS",
           "prestige" : "55",
           "hexColor" : "#FFCD02",
-          "rival" : "OKS",
+          "rival" : "GSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -956,14 +956,14 @@
             "name" : "Ralph Cudd",
             "contractYear" : "2"
           },
-          "name" : "Tulsa",
-          "state" : "Oklahoma"
+          "name" : "Georgia Southern",
+          "state" : "Georgia"
         },
         {
-          "abbreviation" : "AUS",
+          "abbreviation" : "NMS",
           "prestige" : "50",
           "hexColor" : "#011F5B",
-          "rival" : "TXS",
+          "rival" : "NMS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -980,13 +980,13 @@
             "name" : "Rodney Hamparian",
             "contractYear" : "5"
           },
-          "name" : "Austin",
-          "state" : "Texas"
+          "name" : "New Mexico State",
+          "state" : "New Mexico"
         }
       ],
-      "confFullName" : "Cowboy",
-      "confPrestige" : "85",
-      "confName" : "COWBY"
+      "confFullName" : "Independent/Sun Belt",
+      "confPrestige" : "65",
+      "confName" : "INDSB"
     },
     {
       "confTeams" : [
@@ -1581,7 +1581,7 @@
           "state" : "North Carolina"
         },
         {
-          "abbreviation" : "LAF",
+          "abbreviation" : "LAL",
           "prestige" : "70",
           "hexColor" : "#AE2531",
           "rival" : "MRE",
@@ -1601,7 +1601,7 @@
             "name" : "Jeff Burns",
             "contractYear" : "1"
           },
-          "name" : "Lafayette",
+          "name" : "Lafayett",
           "state" : "Louisiana"
         },
         {
