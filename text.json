@@ -2473,10 +2473,10 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "MCO",
-          "prestige" : "70",
+          "abbreviation" : "NDU",
+          "prestige" : "87",
           "hexColor" : "#9a803e",
-          "rival" : "HTF",
+          "rival" : "ARMY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2493,14 +2493,14 @@
             "name" : "Donald Yahraus",
             "contractYear" : "5"
           },
-          "name" : "Orlando",
-          "state" : "Florida"
+          "name" : "Notre Dame",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "LVL",
-          "prestige" : "70",
+          "abbreviation" : "ARMY",
+          "prestige" : "65",
           "hexColor" : "#AF906A",
-          "rival" : "SWK",
+          "rival" : "NDU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2517,14 +2517,14 @@
             "name" : "Damon Baugh",
             "contractYear" : "1"
           },
-          "name" : "Louisville",
-          "state" : "Kentucky"
+          "name" : "Army",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "HTF",
-          "prestige" : "65",
+          "abbreviation" : "UMASS",
+          "prestige" : "45",
           "hexColor" : "#FFC520",
-          "rival" : "MCO",
+          "rival" : "NMU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2541,14 +2541,14 @@
             "name" : "Francis Beberwyk",
             "contractYear" : "4"
           },
-          "name" : "Hartford",
-          "state" : "Connecticut"
+          "name" : "UMass",
+          "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "TMP",
-          "prestige" : "65",
+          "abbreviation" : "LIB",
+          "prestige" : "70",
           "hexColor" : "#192DAA",
-          "rival" : "GRE",
+          "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2565,14 +2565,14 @@
             "name" : "Tommy Crislip",
             "contractYear" : "2"
           },
-          "name" : "Tampa St",
-          "state" : "Florida"
+          "name" : "Liberty",
+          "state" : "Virginia"
         },
         {
-          "abbreviation" : "OSN",
-          "prestige" : "65",
+          "abbreviation" : "NMS",
+          "prestige" : "50",
           "hexColor" : "#F7BD0A",
-          "rival" : "STA",
+          "rival" : "UMASS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2589,14 +2589,14 @@
             "name" : "Ricardo Gaub",
             "contractYear" : "3"
           },
-          "name" : "Oklahoma Sthrn",
-          "state" : "Oklahoma"
+          "name" : "New Mexico State",
+          "state" : "New Mexico"
         },
         {
-          "abbreviation" : "MHT",
-          "prestige" : "65",
+          "abbreviation" : "BYU",
+          "prestige" : "68",
           "hexColor" : "#004812",
-          "rival" : "WCH",
+          "rival" : "LIB",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2613,14 +2613,14 @@
             "name" : "Dale Girod",
             "contractYear" : "2"
           },
-          "name" : "Manhattan",
-          "state" : "Kansas"
+          "name" : "BYU",
+          "state" : "Utah"
         },
         {
-          "abbreviation" : "STA",
+          "abbreviation" : "MAR",
           "prestige" : "60",
           "hexColor" : "#040404",
-          "rival" : "OSN",
+          "rival" : "RUT",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2637,14 +2637,14 @@
             "name" : "Terrence Pestone",
             "contractYear" : "0"
           },
-          "name" : "San Antonio St",
-          "state" : "Texas"
+          "name" : "Maryland",
+          "state" : "Maryland"
         },
         {
-          "abbreviation" : "GRE",
-          "prestige" : "55",
+          "abbreviation" : "RUT",
+          "prestige" : "50",
           "hexColor" : "#00839C",
-          "rival" : "TMP",
+          "rival" : "MAR",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2661,14 +2661,14 @@
             "name" : "Grant Empson",
             "contractYear" : "1"
           },
-          "name" : "Greenville",
-          "state" : "South Carolina"
+          "name" : "Rutgers",
+          "state" : "New Jersey"
         },
         {
-          "abbreviation" : "WCH",
+          "abbreviation" : "NEB",
           "prestige" : "55",
           "hexColor" : "#131111",
-          "rival" : "MHT",
+          "rival" : "NWU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2685,14 +2685,14 @@
             "name" : "Jody Shimada",
             "contractYear" : "5"
           },
-          "name" : "Wichita",
-          "state" : "Kansas"
+          "name" : "Nebraska",
+          "state" : "Nebraska"
         },
         {
-          "abbreviation" : "SWK",
+          "abbreviation" : "NWU",
           "prestige" : "50",
           "hexColor" : "#FDB826",
-          "rival" : "LVL",
+          "rival" : "NEB",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2709,21 +2709,21 @@
             "name" : "Douglas Patolot",
             "contractYear" : "5"
           },
-          "name" : "SW Kentucky",
-          "state" : "Kentucky"
+          "name" : "Northwestern",
+          "state" : "Illinois"
         }
       ],
-      "confFullName" : "Eastern",
+      "confFullName" : "Independent",
       "confPrestige" : "70",
-      "confName" : "EAST"
+      "confName" : "IND"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "BIR",
-          "prestige" : "70",
+          "abbreviation" : "SCU",
+          "prestige" : "60",
           "hexColor" : "#00122B",
-          "rival" : "DTS",
+          "rival" : "ARK",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2740,14 +2740,14 @@
             "name" : "Alan Surano",
             "contractYear" : "3"
           },
-          "name" : "Birmingham",
-          "state" : "Alabama"
+          "name" : "South Carolina",
+          "state" : "South Carolina"
         },
         {
-          "abbreviation" : "STL",
-          "prestige" : "65",
+          "abbreviation" : "ARK",
+          "prestige" : "55",
           "hexColor" : "#ddddff",
-          "rival" : "MFB",
+          "rival" : "SCU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2764,14 +2764,14 @@
             "name" : "Otis Levinson",
             "contractYear" : "1"
           },
-          "name" : "St Louis",
-          "state" : "Missouri"
+          "name" : "Arkansas",
+          "state" : "Arkansas"
         },
         {
-          "abbreviation" : "GFS",
-          "prestige" : "65",
+          "abbreviation" : "MISS",
+          "prestige" : "60",
           "hexColor" : "#002148",
-          "rival" : "JCK",
+          "rival" : "MIST",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2788,14 +2788,14 @@
             "name" : "Trent Schmider",
             "contractYear" : "0"
           },
-          "name" : "Gulf St",
+          "name" : "Ole Miss",
           "state" : "Mississippi"
         },
         {
-          "abbreviation" : "MAK",
-          "prestige" : "65",
+          "abbreviation" : "MIST",
+          "prestige" : "55",
           "hexColor" : "#005DAA",
-          "rival" : "KSI",
+          "rival" : "MISS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2812,14 +2812,14 @@
             "name" : "Junior Caudel",
             "contractYear" : "4"
           },
-          "name" : "Middle Arkansas",
-          "state" : "Arkansas"
+          "name" : "Miss State",
+          "state" : "Mississippi"
         },
         {
-          "abbreviation" : "JCK",
+          "abbreviation" : "COL",
           "prestige" : "60",
           "hexColor" : "#FAE051",
-          "rival" : "GFS",
+          "rival" : "UCLA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2836,14 +2836,14 @@
             "name" : "Rodney Bittner",
             "contractYear" : "4"
           },
-          "name" : "Jackson",
-          "state" : "Mississippi"
+          "name" : "Colorado",
+          "state" : "Colorado"
         },
         {
-          "abbreviation" : "MFB",
-          "prestige" : "55",
+          "abbreviation" : "UCLA",
+          "prestige" : "65",
           "hexColor" : "#14234F",
-          "rival" : "STL",
+          "rival" : "COL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2860,14 +2860,14 @@
             "name" : "OJ Howryla",
             "contractYear" : "3"
           },
-          "name" : "Murfeesboro",
-          "state" : "Tennessee"
+          "name" : "UCLA",
+          "state" : "California"
         },
         {
-          "abbreviation" : "DTS",
-          "prestige" : "55",
+          "abbreviation" : "BCU",
+          "prestige" : "60",
           "hexColor" : "#194896",
-          "rival" : "BIR",
+          "rival" : "NCST",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2884,14 +2884,14 @@
             "name" : "Clifton Rowback",
             "contractYear" : "5"
           },
-          "name" : "Destin St",
-          "state" : "Florida"
+          "name" : "Boston College",
+          "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "RST",
+          "abbreviation" : "NCST",
           "prestige" : "55",
           "hexColor" : "#BE9434",
-          "rival" : "CMS",
+          "rival" : "BCU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2908,14 +2908,14 @@
             "name" : "Bennie Fini",
             "contractYear" : "3"
           },
-          "name" : "Ruston",
-          "state" : "Louisiana"
+          "name" : "NC State",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "CMS",
+          "abbreviation" : "DUKE",
           "prestige" : "55",
           "hexColor" : "#009C98",
-          "rival" : "RST",
+          "rival" : "GAT",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2932,14 +2932,14 @@
             "name" : "Johnathan Stansfield",
             "contractYear" : "0"
           },
-          "name" : "Coastal Miss",
-          "state" : "Mississippi"
+          "name" : "Duke",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "KSI",
+          "abbreviation" : "GAT",
           "prestige" : "50",
           "hexColor" : "#295A29",
-          "rival" : "MAK",
+          "rival" : "DUKE",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2956,51 +2956,51 @@
             "name" : "Nicholas Lovelady",
             "contractYear" : "4"
           },
-          "name" : "Kansas Intl",
-          "state" : "Kansas"
+          "name" : "Georgia Tech",
+          "state" : "Georgia"
         }
       ],
-      "confFullName" : "Mississippi River",
+      "confFullName" : "USA 12",
       "confPrestige" : "60",
-      "confName" : "MRVR"
+      "confName" : "USA12"
     }
   ],
   "bowlGames" : [
-    "Lilac Bowl",
-    "Apple Bowl",
-    "Salty Bowl",
-    "Salsa Bowl",
-    "Mango Bowl",
-    "Patriot Bowl",
-    "Salad Bowl",
-    "Frost Bowl",
-    "Tropical Bowl",
-    "Music Bowl",
-    "Lilac Bowl",
-    "Apple Bowl",
-    "Salty Bowl",
-    "Salsa Bowl",
-    "Mango Bowl",
-    "Patriot Bowl",
-    "Salad Bowl",
-    "Frost Bowl",
-    "Tropical Bowl",
-    "Music Bowl",
-    "Carnation Bowl",
-    "Mandarin Bowl",
-    "Honey Bowl",
-    "Party Bowl",
-    "Nectatrine Bowl",
-    "Polyester Bowl",
-    "Lemon-Lime Bowl",
-    "Crocodile Bowl",
-    "Desert Bowl",
-    "Fort Bowl",
-    "Vacation Bowl",
-    "Star Bowl",
-    "Bell Bowl",
-    "Freedom Bowl",
-    "Casino Bowl",
-    "American Bowl"
+    "Rose Bowl",
+    "Orange Bowl",
+    "Sugar Bowl",
+    "Cotton Bowl",
+    "Peach Bowl",
+    "Fiesta Bowl",
+    "Citrus Bowl",
+    "Alamo Bowl",
+    "Outback Bowl",
+    "Holiday Bowl",
+    "Texas Bowl",
+    "Camping World Bowl",
+    "Music City Bowl",
+    "Belk Bowl",
+    "Pinstripe Bowl",
+    "Liberty Bowl",
+    "Redbox Bowl",
+    "Sun Bowl",
+    "Gator Bowl",
+    "Las Vegas Bowl",
+    "Military Bowl",
+    "First Responder Bowl",
+    "Birmingham Bowl",
+    "LendingTree Bowl",
+    "Independence Bowl",
+    "Gasparilla Bowl",
+    "New Mexico Bowl",
+    "Cheez It Bowl",
+    "Hawaii Bowl",
+    "Boca Raton Bowl",
+    "Famous Idaho Potato Bowl",
+    "New Orleans Bowl",
+    "Armed Forces Bowl",
+    "Quick Lane Bowl",
+    "Frisco Bowl",
+    "Arizona Bowl"
   ]
 }
