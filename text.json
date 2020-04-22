@@ -6,7 +6,7 @@
           "abbreviation" : "ALA",
           "prestige" : "95",
           "hexColor" : "#D1B07F",
-          "rival" : "FLA",
+          "rival" : "AUB",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -30,7 +30,7 @@
           "abbreviation" : "UGA",
           "prestige" : "90",
           "hexColor" : "#9E0E43",
-          "rival" : "TEN",
+          "rival" : "LSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -54,7 +54,7 @@
           "abbreviation" : "FLA",
           "prestige" : "88",
           "hexColor" : "#2139CE",
-          "rival" : "ALA",
+          "rival" : "TAM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -78,7 +78,7 @@
           "abbreviation" : "TEN",
           "prestige" : "75",
           "hexColor" : "#EA4B0F",
-          "rival" : "UGA",
+          "rival" : "VAN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -102,7 +102,7 @@
           "abbreviation" : "AUB",
           "prestige" : "85",
           "hexColor" : "#194896",
-          "rival" : "KYW",
+          "rival" : "ALA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -126,7 +126,7 @@
           "abbreviation" : "LSU",
           "prestige" : "90",
           "hexColor" : "#ca030a",
-          "rival" : "LOU",
+          "rival" : "UGA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -150,7 +150,7 @@
           "abbreviation" : "TAM",
           "prestige" : "80",
           "hexColor" : "#DC272A",
-          "rival" : "KTY",
+          "rival" : "FLA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -174,7 +174,7 @@
           "abbreviation" : "MIS",
           "prestige" : "65",
           "hexColor" : "#e8d3a2",
-          "rival" : "NOR",
+          "rival" : "KTY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -198,7 +198,7 @@
           "abbreviation" : "VAN",
           "prestige" : "60",
           "hexColor" : "#4b0082",
-          "rival" : "ATL",
+          "rival" : "TEN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -222,7 +222,7 @@
           "abbreviation" : "KTY",
           "prestige" : "70",
           "hexColor" : "#007CC4",
-          "rival" : "ARK",
+          "rival" : "MIS",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
